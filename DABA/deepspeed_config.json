@@ -1,0 +1,8 @@
+{
+  "train_batch_size" : 16,
+  "steps_per_print" : 1000,
+  "amp" : {
+      "enabled" : true,
+      "opt_level" : "O1"      
+  }
+}
